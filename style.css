@@ -139,7 +139,6 @@ section {
 .about .about-details {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     text-align: center;
 }
 
@@ -147,7 +146,6 @@ section {
     color: #757575;
     font-size: 20px;
     font-weight: 400;
-    line-height: 30px;
     /* 150% */
 
 }
@@ -156,7 +154,7 @@ section {
     color: #474747;
     font-size: 20px;
     font-weight: 700;
-    line-height: 30px;
+    
 
 }
 
