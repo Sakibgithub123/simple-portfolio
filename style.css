@@ -117,9 +117,12 @@ section {
     background-color: rgba(255, 248, 243, 1);
     padding: 120px 150px;
     text-align: center;
-    width: 100%;
+    
 }
+.about-container{
+    width: 100%;
 
+}
 .title {
     color: #181818;
     font-size: 35px;
@@ -318,5 +321,5 @@ textarea {
 
 }
 .contact-description button{
-    padding-top: 10px;
+    margin-top: 10px;
 }
